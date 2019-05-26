@@ -3,7 +3,7 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2019-05-26T14:43:14+02:00</updated>
+    <updated>2019-05-26T16:27:59+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
@@ -17,35 +17,37 @@
         <link href="https://useless.blue/eurorack-stomp-box-tuner.html"/>
         <id>https://useless.blue/eurorack-stomp-box-tuner.html</id>
 
-        <updated>2019-05-26T14:19:57+02:00</updated>
+        <updated>2019-05-26T16:27:06+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://useless.blue/media/posts/1/IMG_20190525_230700.jpg" alt="" />
-                    Later I found the problem. I was careless with the assembly of my power jack and had too long wires and too little insulation. That's why I got a big short and melted the cable. After this massive fail I hab enough for today.
+                    <p>I've got the idea that a tuner for my modular would be nice. And the cheapest route in my mind would be to convert a guitar pedal tuner. So I bought the cheapest one I could get. When the glorious Harley Benton CPT-20 arrived at my home, the journey began...</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://useless.blue/media/posts/1/IMG_20190525_230700.jpg" alt="" />
-                <div class="post__toc">
+                <p>I've got the idea that a tuner for my modular would be nice. And the cheapest route in my mind would be to convert a guitar pedal tuner. So I bought the cheapest one I could get. When the glorious Harley Benton CPT-20 arrived at my home, the journey began...</p>
+
+<div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
-<li><a href="#mcetoc_1dboo4psu0"> Disassembly</a></li>
+<li><a href="#mcetoc_1dboo4psu0">Disassembly</a></li>
 <li><a href="#mcetoc_1dbopactd0">Power supply </a></li>
 <li><a href="#mcetoc_1dboprjco1">Audio jack</a></li>
-<li><a href="#mcetoc_1dboqr7532"> Testing</a></li>
-<li><a href="#mcetoc_1dboqvkc43"> Case modifications</a></li>
+<li><a href="#mcetoc_1dboqr7532">Testing</a></li>
+<li><a href="#mcetoc_1dboqvkc43">Case modifications</a></li>
 <li><a href="#mcetoc_1dborcm9b0">Mounting to the rails</a></li>
 <li><a href="#mcetoc_1dborokvv1">Putting everything together</a></li>
 <li><a href="#mcetoc_1dbos51vv2">It is done</a></li>
 <li><a href="#mcetoc_1dbos82mr3">No happy ending</a></li>
 </ul>
 </div>
-<p>I've got the idea that a tuner for my modular would be nice. And the cheapest route in my mind would be to convert a guitar pedal tuner. So I bought the cheapest one I could get. The glorious Harley Benton CPT-20.</p>
 <figure class="post__image post__image--center" ><img src="https://useless.blue/media/posts/1/IMG_20190525_131653.jpg" alt="Harley Benton CPT-20" width="2955" height="2800">
 <figcaption >Harley Benton CPT-20</figcaption>
 </figure>
-<h2 id="mcetoc_1dboo4psu0"> Disassembly</h2>
+<h2 id="mcetoc_1dboo4psu0">Disassembly</h2>
 <p>"Don't turn it on, take it apart!" That was my plan. I removed four screws on the bottom, then another four screws beneath the rubber feeds.</p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/1/gallery/IMG_20190525_131658.jpg" ><img src="https://useless.blue/media/posts/1/gallery/IMG_20190525_131658-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
@@ -70,9 +72,9 @@
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/1/gallery/Screenshot_1.png" ><img src="https://useless.blue/media/posts/1/gallery/Screenshot_1-thumbnail.png" alt="" width="768" height="494"></a></figure>
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/1/gallery/IMG_20190525_135332.jpg" ><img src="https://useless.blue/media/posts/1/gallery/IMG_20190525_135332-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div>
-<h2 id="mcetoc_1dboqr7532"> Testing</h2>
+<h2 id="mcetoc_1dboqr7532">Testing</h2>
 <p>Electrically everything was done. I tested the tuner with my Behringer Neutron and it worked. Low noted weren't picked up and if you got to far away from a sinus wave it stopped working too. Not perfect, but good enough for my taste. </p>
-<h2 id="mcetoc_1dboqvkc43"> Case modifications</h2>
+<h2 id="mcetoc_1dboqvkc43">Case modifications</h2>
 <p>Two modifications needed to be done. First I needed a hole to get the wires and the jack out. I just center punched the right location,drilled a hole and was done.</p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/1/gallery/IMG_20190525_140200.jpg" ><img src="https://useless.blue/media/posts/1/gallery/IMG_20190525_140200-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
