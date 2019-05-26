@@ -3,7 +3,7 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2019-05-26T16:27:59+02:00</updated>
+    <updated>2019-05-26T21:42:21+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
@@ -17,18 +17,18 @@
         <link href="https://useless.blue/eurorack-stomp-box-tuner.html"/>
         <id>https://useless.blue/eurorack-stomp-box-tuner.html</id>
 
-        <updated>2019-05-26T16:27:06+02:00</updated>
+        <updated>2019-05-26T16:30:59+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://useless.blue/media/posts/1/IMG_20190525_230700.jpg" alt="" />
-                    <p>I've got the idea that a tuner for my modular would be nice. And the cheapest route in my mind would be to convert a guitar pedal tuner. So I bought the cheapest one I could get. When the glorious Harley Benton CPT-20 arrived at my home, the journey began...</p>
+                    <p>I've got the idea that a tuner for my modular synthesizer would be nice. And the cheapest route in my mind would be to convert a guitar pedal tuner. So I bought the cheapest one I could get. When the glorious Harley Benton CPT-20 arrived at my home, the journey began...</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://useless.blue/media/posts/1/IMG_20190525_230700.jpg" alt="" />
-                <p>I've got the idea that a tuner for my modular would be nice. And the cheapest route in my mind would be to convert a guitar pedal tuner. So I bought the cheapest one I could get. When the glorious Harley Benton CPT-20 arrived at my home, the journey began...</p>
+                <p>I've got the idea that a tuner for my modular synthesizer would be nice. And the cheapest route in my mind would be to convert a guitar pedal tuner. So I bought the cheapest one I could get. When the glorious Harley Benton CPT-20 arrived at my home, the journey began...</p>
 
 <div class="post__toc">
 <h3>Table of Contents</h3>
@@ -117,6 +117,158 @@
 <p>Later I found the problem. I was careless with the assembly of my power jack and had too long wires and too little insulation. That's why I got a big short and melted the cable.</p>
 <p><img src="https://useless.blue/media/posts/1/IMG_20190526_024801.jpg" alt="" width="2976" height="3968"></p>
 <p>After this massive fail I hab enough for today.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blender Progress</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/blender-progress.html"/>
+        <id>https://useless.blue/blender-progress.html</id>
+
+        <updated>2019-05-26T21:16:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/3/IMG_20190520_185131_111.jpg" alt="" />
+                    <p>I'm going to a course for Blender in Munich. The teacher is greate and we got really fast up to speed in a small group.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/3/IMG_20190520_185131_111.jpg" alt="" />
+                <p>I'm going to a course for Blender in Munich. The teacher is greate and we got really fast up to speed in a small group.</p>
+
+<p><a href="https://www.mvhs.de/programm/computer-internet/photoshop-illustrator-indesign.18780/460-C-I487410">https://www.mvhs.de/programm/computer-internet/photoshop-illustrator-indesign.18780/460-C-I487410</a></p>
+<p>Here we tried extruded text. Pretty simple but I like the colors.</p>
+<p><img src="undefined" alt=""><img class="align-center" src="https://useless.blue/media/posts/3/photo5420129950687668779.jpg" alt="" width="512" height="512"></p>
+<p>This is the first try to create a realtic camera with fspy and create realistic reflections onto an object. Compositing was done in Photoshop because I didn't know any better at that time.</p>
+<p><img src="https://useless.blue/media/posts/3/IMG_20190518_122129_766.jpg" alt="" width="1194" height="1493"></p>
+<p>This was the second try to work with a photo. Same principles as the first one, but I wanted her to stand inside the crystal and be refracted.</p>
+<p><img src="https://useless.blue/media/posts/3/IMG_20190519_111149_926.jpg" alt="" width="2592" height="3240"></p>
+<p>This is the first time I worked with metaballs in a particle system. The were converted into a mesh afterwards and reduced to create the crystal structure. This is also the first time I really used the compositing features of blender.</p>
+<p><img src="https://useless.blue/media/posts/3/IMG_20190520_185131_111.jpg" alt="" width="3265" height="4082"></p>
+<p>This was the first homework I did for the course. A snowman and a little bit of snow.</p>
+<p><img src="https://useless.blue/media/posts/3/Schneemann-V5.jpg" alt="" width="4096" height="2048"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Shoot with Margit Mägdefrau</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/shoot-with-margit-magdefrau.html"/>
+        <id>https://useless.blue/shoot-with-margit-magdefrau.html</id>
+
+        <updated>2019-05-26T21:37:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/5/P5052405.jpg" alt="" />
+                    I had a photo shoot with Margit in car park. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/5/P5052405.jpg" alt="" />
+                <p>I had a photo shoot with Margit in car park.</p>
+<p><img src="https://useless.blue/media/posts/5/P5052445.jpg" alt="" width="4608" height="3456"></p>
+<p><img src="https://useless.blue/media/posts/5/P5052096.jpg" alt="" width="4368" height="1770"></p>
+<p><img src="https://useless.blue/media/posts/5/P5052405.jpg" alt="" width="2162" height="2702"></p>
+<p><img src="https://useless.blue/media/posts/5/P5052624.jpg" alt="" width="4370" height="3278"></p>
+<p><img src="https://useless.blue/media/posts/5/P5052474.jpg" alt="" width="3456" height="3456"></p>
+<p><img src="https://useless.blue/media/posts/5/P5052326.jpg" alt="" width="2816" height="2816"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cinema4D Doodles</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/cinema4d-doodles.html"/>
+        <id>https://useless.blue/cinema4d-doodles.html</id>
+
+        <updated>2019-05-26T21:25:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/4/IMG_20190112_152417_747.jpg" alt="" />
+                    <p>Just a few things I made with Cinema4D the last mounths.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/4/IMG_20190112_152417_747.jpg" alt="" />
+                <p>Just a few things I made with Cinema4D the last mounths.</p>
+
+<p>This is a 3D scn I made from a friend. After heavy postprocessing it was ready to be used in C4D.</p>
+<p><img src="https://useless.blue/media/posts/4/IMG_20190126_223128_015.jpg" alt="" width="3840" height="2160"></p>
+<p><img src="https://useless.blue/media/posts/4/IMG_20190111_102307_739.jpg" alt="" width="4000" height="4000"></p>
+<p><img src="https://useless.blue/media/posts/4/Doodle04a.jpg" alt="" width="4000" height="4000"></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/4/gallery/IMG_20190112_015608_390.jpg" ><img src="https://useless.blue/media/posts/4/gallery/IMG_20190112_015608_390-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/4/gallery/Doodle02_Camera2_V2.jpg" ><img src="https://useless.blue/media/posts/4/gallery/Doodle02_Camera2_V2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div>
+<p>This is a 3D scan of another friend I made. The hair wasn't that greatso i had to be creative how to cover it.</p>
+<p><img src="https://useless.blue/media/posts/4/IMG_20190112_152417_747.jpg" alt="" width="1080" height="1080"></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/4/gallery/IMG_20190112_152417_748.jpg" ><img src="https://useless.blue/media/posts/4/gallery/IMG_20190112_152417_748-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/4/gallery/IMG_20190112_152417_749.jpg" ><img src="https://useless.blue/media/posts/4/gallery/IMG_20190112_152417_749-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div>
+<p><img src="https://useless.blue/media/posts/4/Doodle02-graded.jpg" alt="" width="5333" height="3000"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gear 360 intervalometer</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/gear-360-intervalometer.html"/>
+        <id>https://useless.blue/gear-360-intervalometer.html</id>
+
+        <updated>2019-05-26T21:26:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/2/246209266_381341.jpg" alt="" />
+                    <p>I’ve got a Gear360 2016 really cheap used from Amazon to play a little bit with it. The image quality is amazing for the price, but everybody who tried it knows that there isn’t a good way to capture images in a regular interval.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/2/246209266_381341.jpg" alt="" />
+                <p>I’ve got a Gear360 2016 really cheap used from Amazon to play a little bit with it. The image quality is amazing for the price, but everybody who tried it knows that there isn’t a good way to capture images in a regular interval.</p>
+
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1dbqmsm1f0">General Idea</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1dbqmsm1f0">General Idea</h2>
+<p>If you search for a few minutes than you stumble over this video where a remote shutter is soldered to the shutter button.</p>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/Py5VuD2KaAU" allowfullscreen="allowfullscreen" ></iframe></figure>
+<p>The idea to use a cheap intervalometer is great, but I didn’t want to void the warranty and didn’t like the cable on the camera. So I did the same modification but not to the shutter button on the camera but to the shutter button of a Bluetooth remote.</p>
+<h2 id="mcetoc_1dbqn5mke2">Parts</h2>
+<p><span style="font-weight: 400;">I bought the cheapest Bluetooth remote on Amazon </span><a href="https://smile.amazon.de/Kreema-Wireless-Fernbedienung-Bluetooth-schnurlosen/dp/B079MB2JDR/ref=sr_1_3?ie=UTF8&amp;qid=1536704058&amp;sr=8-3&amp;keywords=gear+360+remote"><span style="font-weight: 400;">(something like this)</span></a><span style="font-weight: 400;"> and the cheapest intervalometer on eBay </span><a href="https://www.ebay.com/sch/i.html?_from=R40&amp;_trksid=m570.l1313&amp;_nkw=intervalometer+shutter&amp;_sacat=0&amp;LH_TitleDesc=0&amp;_sop=15&amp;_osacat=0&amp;_odkw=intervalometer&amp;LH_BIN=1&amp;LH_TitleDesc=0"><span style="font-weight: 400;">(something like this)</span></a><span style="font-weight: 400;">.</span></p>
+<p>It took a while but the arrived and I was eager to open them up.</p>
+<h2 id="mcetoc_1dbqn7mv93">Disassembly</h2>
+<p><span style="font-weight: 400;">I disassembled the remote (you can pry it open with your finger nails or a knife)</span></p>
+<p><img src="https://useless.blue/media/posts/2/246921983_218017.jpg" alt="" width="1179" height="527"></p>
+<p><span style="font-weight: 400;">And soldered a wire to each side of the switch.</span></p>
+<p><img src="https://useless.blue/media/posts/2/IMG_20180910_190927.jpg" alt="" width="2180" height="1612"></p>
+<p><span style="font-weight: 400;">Now I opened the intervalometer. (six screws: four on the back, two under the battery cover)</span></p>
+<p>This is the pcb in the inside.</p>
+<p><img src="https://useless.blue/media/posts/2/IMG_20180910_183153.jpg" alt="" width="2976" height="3968"></p>
+<p><span style="font-weight: 400;">I desoldered the three wires from the big black external cable and just removed it completely. The two wires from the Bluetooth remote were soldered to two of the now empty pads like shown in the picture below.</span></p>
+<p><img src="https://useless.blue/media/posts/2/IMG_20180910_192312.jpg" alt="" width="2143" height="1959"></p>
+<p><span style="font-weight: 400;">To get the cases of both devices closed i cut small notche in each case for the wires and closed both cases up. As a last step I hot glued them together with a piece of plastic in the back for more strength (be carefully not to glue shut one of the two batteries compartments)</span></p>
+<p>You can use the Bluetooth remote like before, but also with the intervalometer. Here is a short video to show it working.</p>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/5Azzju7w30w" allowfullscreen="allowfullscreen" ></iframe></figure>
             ]]>
         </content>
     </entry>
