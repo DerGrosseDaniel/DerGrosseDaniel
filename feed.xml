@@ -3,7 +3,7 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2019-05-26T23:32:46+02:00</updated>
+    <updated>2019-05-28T00:14:40+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://useless.blue/eurorack-stomp-box-tuner.html"/>
         <id>https://useless.blue/eurorack-stomp-box-tuner.html</id>
 
-        <updated>2019-05-26T16:30:59+02:00</updated>
+        <updated>2019-05-27T23:02:53+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://useless.blue/media/posts/1/IMG_20190525_230700.jpg" alt="" />
@@ -258,6 +258,49 @@
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/4/gallery/IMG_20190112_152417_749.jpg" ><img src="https://useless.blue/media/posts/4/gallery/IMG_20190112_152417_749-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 </div>
 <p><img src="https://useless.blue/media/posts/4/Doodle02-graded.jpg" alt="" width="5333" height="3000"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>3d printed stop motion armature</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/3d-printed-stop-motion-armature.html"/>
+        <id>https://useless.blue/3d-printed-stop-motion-armature.html</id>
+
+        <updated>2019-05-27T23:03:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/7/IMG_20180930_012748-01.jpeg" alt="" />
+                    <p>I wanted to make a stop motion armature that needed cheap materials but is ridged. So my idea was to make little 3d printed boned where <span class="hiddenGrammarError">i</span> can feed aluminium wire through.<br><br></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/7/IMG_20180930_012748-01.jpeg" alt="" />
+                <p>I wanted to make a stop motion armature that needed cheap materials but is ridged. So my idea was to make little 3d printed boned where <span class="hiddenGrammarError">i</span> can feed aluminium wire through.<br><br></p>
+
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/7/gallery/IMG_20180929_225613.jpg" ><img src="https://useless.blue/media/posts/7/gallery/IMG_20180929_225613-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/7/gallery/IMG-20180929-WA0002.jpeg" ><img src="https://useless.blue/media/posts/7/gallery/IMG-20180929-WA0002-thumbnail.jpeg" alt="" width="768" height="1360"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/7/gallery/IMG_20180929_230431.jpg" ><img src="https://useless.blue/media/posts/7/gallery/IMG_20180929_230431-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div>
+<p>Everything worked fine with the legs and i continued with the hips.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/7/gallery/IMG_20180930_000934.jpg" ><img src="https://useless.blue/media/posts/7/gallery/IMG_20180930_000934-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/7/gallery/IMG_20180930_001451.jpg" ><img src="https://useless.blue/media/posts/7/gallery/IMG_20180930_001451-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div>
+<p>The connection at the hips and between the arms and the shoulders were a little loose but I got them in position.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/7/gallery/IMG_20180930_004733.jpg" ><img src="https://useless.blue/media/posts/7/gallery/IMG_20180930_004733-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/7/gallery/IMG_20180930_005254.jpg" ><img src="https://useless.blue/media/posts/7/gallery/IMG_20180930_005254-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div>
+<p>Everything looks nice, but...</p>
+<p><img src="https://useless.blue/media/posts/7/IMG_20180930_012748-01.jpeg" alt="" width="2976" height="2973"></p>
+<p>... the wire was stressed at the joints and very brittle. To get the wire through the bones and in position <span class="hiddenGrammarError" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">i</span> had to bend them repeatedly very hard and they were near the braking point.<br><br>The first wire broke after minimal movement.<br><br>For the next time i maybe should use more but thinner wire. Or just forget the 3d printer and just use epoxy clay for the bones.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
