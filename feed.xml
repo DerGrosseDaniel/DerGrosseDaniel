@@ -3,12 +3,78 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2019-05-28T00:20:27+02:00</updated>
+    <updated>2019-05-28T00:22:34+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
     <id>https://useless.blue</id>
 
+    <entry>
+        <title>3x3 midi controller</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/3x3-midi-controller.html"/>
+        <id>https://useless.blue/3x3-midi-controller.html</id>
+
+        <updated>2019-05-28T00:22:27+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/8/IMG_20190330_121643.jpg" alt="" />
+                    <p>I wanted to build a small midi controller. It should be cheap, 3d-printable and with usb.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/8/IMG_20190330_121643.jpg" alt="" />
+                <p>I wanted to build a small midi controller. It should be cheap, 3d-printable and with usb.</p>
+
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1dbtiai510">Parts</a></li>
+<li><a href="#mcetoc_1dbtices02">Enclosure</a></li>
+<li><a href="#mcetoc_1dbtjihlj0">Electronics</a></li>
+<li><a href="#mcetoc_1dbtk56sj1">Drivers</a></li>
+<li><a href="#mcetoc_1dbtk8uv32">Software</a></li>
+<li><a href="#mcetoc_1dbtks6223">Assembly</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1dbtiai510">Parts</h2>
+<p>I bought the cheapest 100k linear potentiometers I could find (10k or 50k would be fine to, logarithmic ones would also be <span class="hiddenSpellError">ok</span>). Just search for B100K or B50K on your favourite site.<br><br>As controller, I needed a board with an Atmega32u4 chip for <span class="hiddenSpellError">usb</span> support. I got a clone of an <span class="hiddenSpellError">Arduino</span> micro pro (this is not an official <span class="hiddenSpellError">arduino</span> board, it was a <span class="hiddenSpellError">Sparkfun</span> board) You can find it if you search for <span class="hiddenGrammarError">"</span><span class="hiddenSpellError">arduino</span> micro pro <span class="hiddenSpellError">usb</span> atmega32u4 5v<span class="hiddenGrammarError">"</span>.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/8/gallery/adruino-pro-micro.jpg" ><img src="https://useless.blue/media/posts/8/gallery/adruino-pro-micro-thumbnail.jpg" alt="" width="768" height="579"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/8/gallery/potis.jpg" ><img src="https://useless.blue/media/posts/8/gallery/potis-thumbnail.jpg" alt="" width="768" height="724"></a></figure>
+</div>
+<h2 id="mcetoc_1dbtices02">Enclosure</h2>
+<p>I decided to go with a 3 by 3 matrix of potentiometers and designed an enclosure in Fusion 360.<br><br>I modelled everything as one box with the hole in the top (the blue part) and added a base for the bottom to close everything up. I also moddeled a few knobs for the potentiometers. The print was pretty straight forward.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/8/gallery/20190324-MidiController-v3.png" ><img src="https://useless.blue/media/posts/8/gallery/20190324-MidiController-v3-thumbnail.png" alt="" width="768" height="503"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/8/gallery/IMG_20190328_172648.jpg" ><img src="https://useless.blue/media/posts/8/gallery/IMG_20190328_172648-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/8/gallery/Poti-Knob-v3.png" ><img src="https://useless.blue/media/posts/8/gallery/Poti-Knob-v3-thumbnail.png" alt="" width="768" height="503"></a></figure>
+</div>
+<p>The Fusion 360 files for the parts and the stls can be downloaded here: <a href="http://useless.blue/media/files/MidiController.zip">http://useless.blue/media/files/MidiController.zip</a></p>
+<h2 id="mcetoc_1dbtjihlj0">Electronics</h2>
+<p>I put all the potentiometers in their holes. It was a pretty tight fit, some pins had to be bent. The next time I will give me a millimetre or two more.<br><br>I soldered all the right pins together and all the left pins together. One of them I soldered to ground and the other to 5V. To find out which side you want to solder to ground or 5V, you have to measure with a multimeter. Turn the potentiometer all the way low and measure the resistance between the middle pin and the outside pins. The pin which is 0 ohms you want to connect to ground, the other to 5V.</p>
+<p><img src="https://useless.blue/media/posts/8/IMG_20190328_181018.jpg" alt="" width="3968" height="2976"></p>
+<p> Now connect all the middle pins of the potentiometer to a cable and the other side to the analog pins of the controller. You can find the pinout here: <a href="https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide" target="_blank" rel="noopener noreferrer">https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide</a></p>
+<p><img src="https://useless.blue/media/posts/8/523a1765757b7f5c6e8b4567.png" alt="" width="785" height="655"></p>
+<p>Take notes which potentiometer you connect to which pin.</p>
+<p><img src="https://useless.blue/media/posts/8/IMG_20190329_195226.jpg" alt="" width="2976" height="3968"></p>
+<h2 id="mcetoc_1dbtk56sj1">Drivers</h2>
+<p>Follow these instructions and install the driver for the controller and prepare the <span class="hiddenSpellError">arduino</span> IDE. https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/installing-windows<br>When there are problems with the programming, here is a trouble shooting guide https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide#troubleshooting-and-faq I for example had problems to get the controller programmed. I had to double reset it and chose the <span class="hiddenSpellError">com</span> port every time again.</p>
+<h2 id="mcetoc_1dbtk8uv32">Software</h2>
+<p>We will use the Midi controller library by tttpapa <a href="https://github.com/tttapa/MIDI_controller" target="_blank" rel="noopener noreferrer">https://github.com/tttapa/MIDI_controller</a>. Download and install it.</p>
+<p>This is our ardino code:</p>
+<p><code>#include &lt;MIDI_Controller.h&gt; // Include the library<br><br>// Create a new instance of the class 'Analog', called 'potentiometer', on pin A0, <br>Analog potentiometer(A1, 1, 1);<br>Analog potentiometer2(A2, 2, 1);<br>Analog potentiometer3(A3, 3, 1);<br>Analog potentiometer4(A0, 4, 1);<br>Analog potentiometer5(A6, 7, 1);<br>Analog potentiometer6(A7, 8, 1);<br>Analog potentiometer7(A8, 9, 1);<br>Analog potentiometer8(A9, 6, 1);<br>Analog potentiometer9(A10, 5, 1);<br><br>void setup() {}<br><br>void loop() {<br> // Refresh the MIDI controller (check whether the potentiometer's input has changed since last time, if so, send the new value over MIDI)<br> MIDI_Controller.refresh();<br>}</code></p>
+<p>The lines "Analog potentiometer(A1, 1, 1);" define wich pins are connected to what midi channel.</p>
+<h2 id="mcetoc_1dbtks6223">Assembly</h2>
+<p>There is nothing more to do then to glue the controller in place, close the bottom up and put the caps on the knobs.</p>
+<p><img src="https://useless.blue/media/posts/8/IMG_20190330_121643.jpg" alt="" width="3968" height="2976"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Eurorack stomp box tuner</title>
         <author>
