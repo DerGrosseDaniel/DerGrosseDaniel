@@ -3,12 +3,258 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2019-05-28T00:27:47+02:00</updated>
+    <updated>2019-06-01T03:53:14+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
     <id>https://useless.blue</id>
 
+    <entry>
+        <title>Eurorack flight case</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/eurorack-flight-case.html"/>
+        <id>https://useless.blue/eurorack-flight-case.html</id>
+
+        <updated>2019-06-01T03:51:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/10/IMG_20190601_005912.jpg" alt="" />
+                    When you are getting into modular synthesizer and eurorack, the first thing you need is a case. You can buy one or make your own. I wanted a cool one and of cource I build my own.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/10/IMG_20190601_005912.jpg" alt="" />
+                When you are getting into modular synthesizer and eurorack, the first thing you need is a case. You can buy one or make your own. I wanted a cool one and of cource I build my own.
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1dc8431io0">Buying a case</a></li>
+<li><a href="#mcetoc_1dc84c4te1">What do I want</a></li>
+<li><a href="#mcetoc_1dc84vcv22">Materials/Parts</a>
+<ul>
+<li><a href="#mcetoc_1dc853sr93"> Case</a></li>
+<li><a href="#mcetoc_1dc85sde25">Rails</a></li>
+<li><a href="#mcetoc_1dc86ariu6">Screws</a></li>
+<li><a href="#mcetoc_1dc86m95q7">Power supply</a></li>
+<li><a href="#mcetoc_1dc86r8lc9">Bus board</a></li>
+<li><a href="#mcetoc_1dc85454c4">Purchase overview</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1dc88cpbr0">Rail mounts</a>
+<ul>
+<li><a href="#mcetoc_1dc88ijtm1">Single rail mount to the back</a></li>
+<li><a href="#mcetoc_1dc89e6ns2">Double rail in the middle</a></li>
+<li><a href="#mcetoc_1dc89t9pi3">Second single rail</a></li>
+<li><a href="#mcetoc_1dc8bmduo0">Files for 3D printing</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1dc8ak7l80">Power</a></li>
+<li><a href="#mcetoc_1dc8b87vh0">It's done</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1dc8431io0">Buying a case</h2>
+<p><span style="font-size: inherit;">Before a start with my own build lets say a few words for ready-made cases. They can get really expensive. A good place to look for a custom and honestly sometimes even cheaper than mass-produced cases is <span class="hiddenSpellError">Etsy</span>. Just look a little around there are nice and good value cases, often with a power supply integrated.<br><br>Here is a link for a serach </span><a href="https://www.etsy.com/search?q=eurorack%20case" target="_blank" rel="noopener noreferrer" style="font-size: inherit;">https://www.etsy.com/search?q=eurorack%20case</a></p>
+<h2 id="mcetoc_1dc84c4te1">What do I want</h2>
+<p>I wanted a flight case where the rails are mounted in, in a cool colour and not just black. I didn't care for a <span class="hiddenSpellError">Peli</span> case. This will not be thrown around and will not have a hard life, so I had no problems with going with a cheaper brand. I wanted at least 2 rows of modules (6 U) and as wide as possible with a build in power supply. And I wanted aluminium rails. <span class="hiddenGrammarError">(</span>I tried 3D printing of rails and cases, but the result was not good enough for my taste and practical use. And all in all I wanted to be it as cheap as reasonable. A wooden construction is much cheaper if you are on a budget, but I wanted the case.</p>
+<h2 id="mcetoc_1dc84vcv22">Materials/Parts</h2>
+<h3 id="mcetoc_1dc853sr93"> Case</h3>
+<p>I looked for a colourful plastic case I could build everything into. I don't care about the manufacturer, the only important criteria are the inside measurements and the colour.<br><br><span class="hiddenSuggestion" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">I</span> had two contenders. The bigger MAX MAX505S and a smaller MAX MAX430S.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/41wF0Q9hLAL.jpg" ><img src="https://useless.blue/media/posts/10/gallery/41wF0Q9hLAL-thumbnail.jpg" alt="" width="768" height="488"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/81900saDzdL._SL1500_.jpg" ><img src="https://useless.blue/media/posts/10/gallery/81900saDzdL._SL1500_-thumbnail.jpg" alt="" width="768" height="707"></a></figure>
+</div>
+<p>I went for the smaller one. It holds two rows of modules, has about the perfect height for the modules, but not enough space to be closed patched and it is narrower than half a meter (a <span class="hiddenSuggestion" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">1 m</span> rail could be cut and both parts could be used).<br><br>As I'm writing this, I must admit the bigger case would be c compelling alternative. I little wider means you have to buy more rails, but you can get more modules in. And you get 3 rows (9U) not only 2 (6U). The case is also deeper, so you can mount everything further away from the lid and close it without removing the wires. When there will be a second one for me it will probably be this size.</p>
+<h3 id="mcetoc_1dc85sde25">Rails</h3>
+<p>I searched a long time for cheap rails and couldn't find reasonable priced ones that shipped cheap to Germany. I found a seller on eBay where I bought 1 m of a single and 1 m of a double rail each.<br>Single rail: <a href="https://www.ebay.com/itm/Eurorack-Profile-Einfach-Eurorack-Geh%C3%A4use-G%C3%A4ng-Case/143148904747" target="_blank" rel="noopener noreferrer">https://www.ebay.com/itm/Eurorack-Profile-Einfach-Eurorack-Geh%C3%A4use-G%C3%A4ng-Case/143148904747</a></p>
+<p>Double rail: <a href="https://www.ebay.com/itm/Eurorack-Profile-Doppel-Eurorack-Geh%C3%A4use-G%C3%A4ng-Case/143148905473" target="_blank" rel="noopener noreferrer">https://www.ebay.com/itm/Eurorack-Profile-Doppel-Eurorack-Geh%C3%A4use-G%C3%A4ng-Case/143148905473</a></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/s-l1600.jpg" ><img src="https://useless.blue/media/posts/10/gallery/s-l1600-thumbnail.jpg" alt="" width="768" height="919"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/s-l500.jpg" ><img src="https://useless.blue/media/posts/10/gallery/s-l500-thumbnail.jpg" alt="" width="768" height="709"></a></figure>
+</div>
+<h3 id="mcetoc_1dc86ariu6">Screws</h3>
+<p>I bought the cheapest square nuts I could find and a bag of 100 M3 screws. The were 10 mm long and I later realized that is too much. 8 mm would be the right length. (I didn't buy new ones, I used M3 nuts I had as spacers.)</p>
+<h3 id="mcetoc_1dc86m95q7">Power supply</h3>
+<p>I bought a ready made power supply which outputs 12V, -12V and 5V. I think it is a MW RT-65B or MW RT-50B (can't see the number as it is build in).</p>
+<h3 id="mcetoc_1dc86r8lc9">Bus board</h3>
+<p>I first started to make my own bus board, but then I changed my mind and bought a ready made. I got the Koma Elektronik - STROM Busboard.</p>
+<p><img src="https://useless.blue/media/posts/10/s-l1600-1.jpg" alt="" width="883" height="140"></p>
+<h3 id="mcetoc_1dc85454c4">Purchase overview</h3>
+<p>These are the prices and places where I bought everything. I'm pretty sure that there may be better deals depending on where <span class="hiddenGrammarError" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">you</span> <span class="hiddenGrammarError" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">life</span> and when you buy.</p>
+<table>
+<tbody>
+<tr>
+<td><strong>Part</strong></td>
+<td><strong>Where to buy</strong></td>
+<td><strong> </strong></td>
+</tr>
+<tr>
+<td>MAX MAX430S</td>
+<td> <a href="https://smile.amazon.de/MAX-MAX430S-001-Koffer-wasserdicht-orangefarben/dp/B00PUL5XP6" target="_blank" rel="noopener noreferrer">Amazon</a></td>
+<td> 57,64€</td>
+</tr>
+<tr>
+<td>Single Rail</td>
+<td> <a href="https://www.ebay.com/itm/Eurorack-Profile-Einfach-Eurorack-Geh%C3%A4use-G%C3%A4ng-Case/143148904747" target="_blank" rel="noopener noreferrer">eBay</a></td>
+<td> 19,99€</td>
+</tr>
+<tr>
+<td>Double Rails</td>
+<td> <a href="https://www.ebay.com/itm/Eurorack-Profile-Doppel-Eurorack-Geh%C3%A4use-G%C3%A4ng-Case/143148905473" target="_blank" rel="noopener noreferrer">eBay</a></td>
+<td> 21,99€</td>
+</tr>
+<tr>
+<td>Square nuts M3 100 pcs</td>
+<td> <a href="https://www.ebay.com/itm/Vierkantmutter-Stahl-Verzinkt-DIN-562-Flach-M3-M4-M5-M6-M8-5-100-St%C3%BCck/222892834357" target="_blank" rel="noopener noreferrer">eBay</a></td>
+<td> 4,70€</td>
+</tr>
+<tr>
+<td>M3 100 10mm (BUY 8MM!)</td>
+<td> <a href="https://www.ebay.com/itm/Linsenkopfschrauben-Edelstahl-V2A-ISO-7380-Innensechskant-M3-M4-M5-M6-M8-M10/263582718022" target="_blank" rel="noopener noreferrer">eBay</a></td>
+<td> 6,20€</td>
+</tr>
+<tr>
+<td>MW RT-65B</td>
+<td> <a href="https://www.reichelt.de/schaltnetzteil-geschlossen-65-w-5-12-12-v-5-2-8-0-5-a-mw-rt-65b-p147885.html" target="_blank" rel="noopener noreferrer">Reichelt</a></td>
+<td> 25,00€</td>
+</tr>
+<tr>
+<td>Koma Elektronik - STROM Busboard</td>
+<td> <a href="https://www.ebay.com/itm/Koma-Elektronik-STROM-Busboard/192879229112" target="_blank" rel="noopener noreferrer">Ebay</a></td>
+<td>
+<p> 35,00€</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>everything together</td>
+<td>
+<p>170,52€</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1dc88cpbr0">Rail mounts</h2>
+<p>I designed all rails mounts to be 3D printed and be glued to the case and the rails with hot glue. I made small holes where you could squeeze the glue in and channels on the back of the party to get glue behind them.<br><br><span class="hiddenSuggestion" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">I</span> made 3 different designs.</p>
+<h3 id="mcetoc_1dc88ijtm1">Single rail mount to the back</h3>
+<p>My first design goes around the rail and could be glued extremely secure in place. You can see the channels for the glue on the back and the little holes for the glue to go through (On the channels to glue in inside the case and on the rail to glue the rail)</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/Screenshot_1.png" ><img src="https://useless.blue/media/posts/10/gallery/Screenshot_1-thumbnail.png" alt="" width="768" height="842"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190520_194015.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190520_194015-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190520_194047.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190520_194047-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div>
+<p>You can see that the printed design is a little different from the computer model. I changed it later to a correct one. After I installed the rail into the case, I realized that the plastic has to finish at the edge of the rail, or it will interfere with the modules.</p>
+<p><img src="https://useless.blue/media/posts/10/IMG_20190519_230820.jpg" alt="" width="3968" height="2976"></p>
+<p>I had already glued the rails to the case, so I had to change the 3D printed parts. I took a big utility knife and heated it up over a hot air gun and cut the protruding part away. Not pretty but it worked (and in real live it doesn't look this messy).</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190601_030625.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190601_030625-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190601_030632.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190601_030632-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div>
+<h3 id="mcetoc_1dc89e6ns2">Double rail in the middle</h3>
+<p>The double rail in the middle could only be supported at the ends. I made two pieces with just a plain channel on the top and a channel system in the back to be glued to the walls of the case.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/Screenshot_2.png" ><img src="https://useless.blue/media/posts/10/gallery/Screenshot_2-thumbnail.png" alt="" width="768" height="646"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/Screenshot_3.png" ><img src="https://useless.blue/media/posts/10/gallery/Screenshot_3-thumbnail.png" alt="" width="768" height="646"></a></figure>
+</div>
+<p>I printed the part two times and glued them to the rail. After the glue was cold, I glued the whole assembly into the case. (I used two modules as spacers between the rails to get the correct distance)</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190521_083936.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190521_083936-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190521_202059.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190521_202059-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190520_211301.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190520_211301-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div>
+<h3 id="mcetoc_1dc89t9pi3">Second single rail</h3>
+<p>This one has also be supported at the ends. There also has to be a left and a right mount, because we are near the corner of the case.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/Screenshot_4.png" ><img src="https://useless.blue/media/posts/10/gallery/Screenshot_4-thumbnail.png" alt="" width="768" height="516"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/Screenshot_6.png" ><img src="https://useless.blue/media/posts/10/gallery/Screenshot_6-thumbnail.png" alt="" width="768" height="733"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/Screenshot_5.png" ><img src="https://useless.blue/media/posts/10/gallery/Screenshot_5-thumbnail.png" alt="" width="768" height="513"></a></figure>
+</div>
+<p>The mounts were glued to the rails. First a bit glue to the striped pattern on the top and then glue from the side into the rail.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190531_214033.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190531_214033-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190531_224210.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190531_224210-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190531_231256.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190531_231256-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div>
+<p>The assembly was glue into place like the double rail.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190531_231245.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190531_231245-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190531_231744.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190531_231744-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190531_231752.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190531_231752-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div>
+<h3 id="mcetoc_1dc8bmduo0">Files for 3D printing</h3>
+<p>If you have a 3D printer you can download the STLs or the Fusion 360 files here: <a href="http://useless.blue/media/files/EurorackCaseRailMounts.zip">http://useless.blue/media/files/EurorackCaseRailMounts.zip</a></p>
+<h2 id="mcetoc_1dc8ak7l80">Power</h2>
+<p>The power supply was mounted with industrial strength Velcro (<span class="hiddenGrammarError" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">3M</span> Dual lock) and the bus bar with the included adhesive pads. I cut the included power cable of the bus bar in half and connected the stripped wires to the power supply.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190521_202246.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190521_202246-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190521_202104.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190521_202104-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://useless.blue/media/posts/10/gallery/IMG_20190521_202112.jpg" ><img src="https://useless.blue/media/posts/10/gallery/IMG_20190521_202112-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div>
+<p>I also added a nice switch and socket for the power. You can the the details in the <a href="#INTERNAL_LINK#/post/9">Eurorack power module</a> article.</p>
+<h2 id="mcetoc_1dc8b87vh0">It's done</h2>
+<p>Everything works and is in the case. There are a few corners that could be prettier, but when the case is full, nobody will see it.</p>
+<p><img src="https://useless.blue/media/posts/10/IMG_20190601_005912.jpg" alt="" width="2924" height="3382"></p>
+<p><img src="https://useless.blue/media/posts/10/IMG_20190601_005919.jpg" alt="" width="3968" height="2976"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Eurorack power module</title>
+        <author>
+            <name>DerGrosseDaniel</name>
+        </author>
+        <link href="https://useless.blue/eurorack-power-module.html"/>
+        <id>https://useless.blue/eurorack-power-module.html</id>
+
+        <updated>2019-06-01T01:33:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://useless.blue/media/posts/9/IMG_20190601_000323.jpg" alt="" />
+                    <p>I wanted a switch for my modular synthesizer and a cable I can unplug and which isn't hardwired.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://useless.blue/media/posts/9/IMG_20190601_000323.jpg" alt="" />
+                <p>I wanted a switch for my modular synthesizer and a cable I can unplug and which isn't hardwired.</p>
+
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1dc82q6as0">Parts</a></li>
+<li><a href="#mcetoc_1dc82umr01">Front plate</a></li>
+<li><a href="#mcetoc_1dc835bf02">Installation</a></li>
+<li><a href="#mcetoc_1dc839cba3">Wiring</a></li>
+<li><a href="#mcetoc_1dc83lkvh4">Complete</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1dc82q6as0">Parts</h2>
+<p>I went to my junk bin and pulled a power socket out of an old mini TV and I had a nice big switch laying around.</p>
+<p><img src="https://useless.blue/media/posts/9/IMG_20190531_221636.jpg" alt="" width="3457" height="1767"></p>
+<h2 id="mcetoc_1dc82umr01">Front plate</h2>
+<p>I designed a really simple front plate in Fusion 360. Not really more than a square and two holes.</p>
+<p><img src="https://useless.blue/media/posts/9/Screenshot_1.png" alt="" width="774" height="420"></p>
+<p>The print went fine without trouble.</p>
+<p><img src="https://useless.blue/media/posts/9/IMG_20190531_232610.jpg" alt="" width="3968" height="2976"></p>
+<h2 id="mcetoc_1dc835bf02">Installation</h2>
+<p>First I drilled two little holes through the mounting holes of the socket.</p>
+<p><img src="https://useless.blue/media/posts/9/IMG_20190531_233315.jpg" alt="" width="3968" height="2976"></p>
+<p>Now I just screwed both components in.</p>
+<p><img src="https://useless.blue/media/posts/9/IMG_20190531_233659.jpg" alt="" width="2976" height="3968"></p>
+<h2 id="mcetoc_1dc839cba3">Wiring</h2>
+<p>The switch was wired between the socket and power supply.</p>
+<p><img src="https://useless.blue/media/posts/9/IMG_20190531_234755.jpg" alt="" width="3928" height="1777"></p>
+<p>I insulated all contact with a little hot glue. I didn't want live contacts so close unprotected to my fingers.</p>
+<p><img src="https://useless.blue/media/posts/9/IMG_20190531_235252.jpg" alt="" width="3913" height="2184"></p>
+<h2 id="mcetoc_1dc83lkvh4">Complete</h2>
+<p>Nothing more to do at this point than screw it into the case and test it. Everything worked fine and on the first try for a change.</p>
+<p><img src="https://useless.blue/media/posts/9/IMG_20190601_000323.jpg" alt="" width="3968" height="2976"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>3x3 midi controller</title>
         <author>
@@ -17,7 +263,7 @@
         <link href="https://useless.blue/3x3-midi-controller.html"/>
         <id>https://useless.blue/3x3-midi-controller.html</id>
 
-        <updated>2019-05-28T00:22:27+02:00</updated>
+        <updated>2019-06-01T03:50:13+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://useless.blue/media/posts/8/IMG_20190330_121643.jpg" alt="" />
