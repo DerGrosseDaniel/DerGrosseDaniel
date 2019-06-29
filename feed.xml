@@ -3,7 +3,7 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2019-06-29T18:11:44+02:00</updated>
+    <updated>2019-06-29T18:13:15+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://useless.blue/arcade-trigger-for-eurorack.html"/>
         <id>https://useless.blue/arcade-trigger-for-eurorack.html</id>
 
-        <updated>2019-06-29T18:11:34+02:00</updated>
+        <updated>2019-06-29T18:13:08+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://useless.blue/media/posts/11/IMG_20190627_221749.jpg" alt="" />
@@ -37,6 +37,7 @@
 <li><a href="#mcetoc_1dehpkmg21">Circuit design and simulation</a></li>
 <li><a href="#mcetoc_1dehpkmg23">PCB layout</a></li>
 <li><a href="#mcetoc_1dehpkmg24">Frontpanel design</a></li>
+<li><a href="#mcetoc_1dehvq1ka0">Design files/Download</a></li>
 <li><a href="#mcetoc_1dehpkmg25">PCB and part order</a></li>
 <li><a href="#mcetoc_1dehpkmg26">Soldering</a></li>
 <li><a href="#mcetoc_1dehpkmg27">Result</a></li>
