@@ -3,7 +3,7 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2019-06-29T18:03:06+02:00</updated>
+    <updated>2019-06-29T18:11:44+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
@@ -17,17 +17,17 @@
         <link href="https://useless.blue/arcade-trigger-for-eurorack.html"/>
         <id>https://useless.blue/arcade-trigger-for-eurorack.html</id>
 
-        <updated>2019-06-29T18:02:53+02:00</updated>
+        <updated>2019-06-29T18:11:34+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://useless.blue/media/posts/11/IMG_20190627_223410.jpg" alt="" />
+                        <img src="https://useless.blue/media/posts/11/IMG_20190627_221749.jpg" alt="" />
                     <p>I wanted to create my own module for eurorack from start to finish and make my first pcb layout. This is my journey to my diy arcade trigger eurorack module.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://useless.blue/media/posts/11/IMG_20190627_223410.jpg" alt="" />
+                    <img src="https://useless.blue/media/posts/11/IMG_20190627_221749.jpg" alt="" />
                 <p>I wanted to create my own module for eurorack from start to finish and make my first pcb layout. This is my journey to my diy arcade trigger eurorack module.</p>
 
 <div class="post__toc">
@@ -69,13 +69,16 @@
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/11/gallery/Screenshot_1.png" ><img src="https://useless.blue/media/posts/11/gallery/Screenshot_1-thumbnail.png" alt="" width="768" height="1604"></a></figure>
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/11/gallery/Screenshot_7.png" ><img src="https://useless.blue/media/posts/11/gallery/Screenshot_7-thumbnail.png" alt="" width="768" height="1553"></a></figure>
 </div>
+<h2 id="mcetoc_1dehvq1ka0">Design files/Download</h2>
+<p>All design files are on github and free for you to use. <a href="https://github.com/DerGrosseDaniel/Eurorack-manual-trigger-arcade-button/">https://github.com/DerGrosseDaniel/Eurorack-manual-trigger-arcade-button/</a> You can find the gerber filed there, schematics, BOM, easyeda project and Altium files.</p>
+<p>You can also find the project on easyeda and generate the LCSC shopping cart here: https://easyeda.com/editor#id=|0693ec3244404dddbe72cb1ff47d0b71|332907a0c0794c048bfa6cc9fd1ebf4f</p>
 <h2 id="mcetoc_1dehpkmg25">PCB and part order</h2>
-<p>I ordered the <span class="hiddenSpellError">pcbs</span> on <span class="hiddenSpellError">jlcpb</span>, but any place will be fine. I got <span class="hiddenGrammarError" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">1.6mm</span> thick <span class="hiddenSpellError">pcbs</span> but I would strongly suggest <span class="hiddenGrammarError" style="padding-bottom: 2px; background-image: url('squiggle.png'); background-repeat: repeat-x; background-position: left bottom; vertical-align: text-top; cursor: default; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-style: initial; text-decoration-color: initial;">2mm</span> for more rigidity.</p>
+I ordered the <span class="hiddenSpellError">pcbs</span> on <span class="hiddenSpellError">jlcpcb</span>, but any place will be fine. I got 1.6mm thick <span class="hiddenSpellError">pcbs</span> but I would strongly suggest 2mm for more rigidity.
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/11/gallery/IMG_20190627_225614_098.jpg" ><img src="https://useless.blue/media/posts/11/gallery/IMG_20190627_225614_098-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/11/gallery/IMG_20190627_224326.jpg" ><img src="https://useless.blue/media/posts/11/gallery/IMG_20190627_224326-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div>
-<p>The parts were ordered via LCSC. Everything worked fine, but I couldn't export a link to the parts. That is really annoying. I wanted a really easy solution for everybody to make this module. The next time I will probably use mouser.</p>
+The parts were ordered via LCSC. Everything worked fine, but I couldn't export a link to the parts. That is really annoying. I wanted a really easy solution for everybody to make this module. The next time I will probably use mouser.
 <p><img src="https://useless.blue/media/posts/11/IMG_20190629_172114.jpg" alt="" width="3968" height="2976"></p>
 <p>For the arcade buttons I ordered 6 on ebay for another project. You can get whatever you want as long as they fit into the holes of the pcb.</p>
 <p><img src="https://useless.blue/media/posts/11/IMG_20190629_172053.jpg" alt="" width="3968" height="2976"></p>
