@@ -3,7 +3,7 @@
     <title>useless.blue</title>
     <link href="https://useless.blue/feed.xml" rel="self" />
     <link href="https://useless.blue" />
-    <updated>2020-06-05T16:01:16+02:00</updated>
+    <updated>2020-06-06T01:15:15+02:00</updated>
     <author>
         <name>DerGrosseDaniel</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://useless.blue/antenna-measurements.html"/>
         <id>https://useless.blue/antenna-measurements.html</id>
 
-        <updated>2020-06-05T16:01:09+02:00</updated>
+        <updated>2020-06-06T01:15:03+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://useless.blue/media/posts/12/IMG_20200605_133307-Copy.jpg" alt="" />
@@ -188,6 +188,7 @@
 <p> The differences aren't big, if we had to make a conclusion out of this, then the Nagoya performs the best, and the signal stick worst.</p>
 <h2 id="mcetoc_1ea29nso1f">Measuring SWR with NanoVNA</h2>
 <p>I measured the 3 antennas with the NanoVNA via the PC software.You can see in the plot small markers on the left for the 3m band and three markers on the right for the 70cm band.</p>
+<p><span style="text-decoration: underline;">There was a significant calibration error. The absolut numbers are way to low and the curve of the graphs can also not fully be trusted.</span></p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://useless.blue/media/posts/12/gallery/Yaesu-Screenshot_32.png" ><img src="https://useless.blue/media/posts/12/gallery/Yaesu-Screenshot_32-thumbnail.png" alt="" width="768" height="418"></a>
 <figcaption class="gallery-description">Yaesu</figcaption>
